@@ -1,0 +1,17 @@
+body{
+    background-color:black!important;
+}
+
+div {
+    border-style: dotted solid!important;
+    margin-left: 150px!important;
+    margin-right: 250px;
+
+}
+h1{
+color:white!important;
+margin-right: 150px!important;
+}
+body {
+    font-family: 'Bahiana';font-size: 22px!important;
+}
